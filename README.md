@@ -1,1 +1,1 @@
-hel oo xin chao tất cả mọi người
+public preivate
