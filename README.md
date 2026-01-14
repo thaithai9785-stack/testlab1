@@ -1,1 +1,3 @@
 public preivate
+int main(){
+}
