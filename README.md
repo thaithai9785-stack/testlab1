@@ -1,5 +1,6 @@
 public preivate
 int main(){
+int i=0;
 }
 
 
